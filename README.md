@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Shishimanuu
+- 🌱 I’m currently learning Full Stack Web Develeopment
