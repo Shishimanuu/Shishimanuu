@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Shishimanuu
-- 🌱 I’m currently learning Full Stack Web Develeopment
+- 🌱 I’m currently exploring Full Stack Web Develeopment
 - Learning RL for quadruped development
